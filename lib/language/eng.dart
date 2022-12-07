@@ -1,0 +1,17 @@
+Map<String,String>eng={
+  "app Name":"",
+  "Choose Your language":"Choose Your language",
+  "englihs":"English",
+  "bangla":"Bangle",
+  "Let’s Get Started.":"Let’s Get Started",
+"If you continue":"If you continue, you are acceptingOur Terms & Conditions andPrivacy Policy.",
+  "Register":"Register",
+  "Login":"Login",
+  "OR Continue With":"OR Continue With",
+  "Create an accountNow.":"Create an accountNow",
+  "Welcome To Peer Vendor": "Welcome To Peer Vendor",
+  "ui There":"Ui There",
+  "ui Five":"Ui Five",
+  " ui Eight":" Ui Eight",
+  "ui Ten":"Ui Ten",
+};
